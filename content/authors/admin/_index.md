@@ -76,7 +76,7 @@ email: "shivanshmundra1@gmail.com"
 
 Hello! My name is Shivansh Mundra. I am a pre-final year undergraduate student at Indian Institute of Technology, Kharagpur.
 
-An extrovert who is in love with Mathematics, Machine Learning and Philosophies ❤️.
+Extrovert who is in love with Mathematics, Machine Learning and Philosophies ❤️.
 
 I usually waste my time thinking ideas that could impact mass and try to build upon those. But often ending up watching Netflix because optimistic nihilism.
 

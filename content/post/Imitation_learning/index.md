@@ -4,9 +4,9 @@
 title: "Intro to Imitation Learning: From Why to How!"
 subtitle: "What is Imitation learning, Why do we need it and How to implement different algorithms of IL?"
 summary: ""
-authors: []
+authors: ["admin"]
 tags: ["Reinforcement Learning", "Imitation Learning", "Machine Learning", "GAN", "Behaviour Cloning"]
-categories: []
+categories: ["Technical", "Artificial Intelligence"]
 date: 2020-04-19T02:15:34+05:30
 lastmod: 2020-04-19T02:15:34+05:30
 featured: false

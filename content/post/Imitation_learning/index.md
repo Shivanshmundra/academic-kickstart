@@ -30,9 +30,9 @@ projects: []
 
 
 
-Jude is a football player, a noob but a wannabe great player. Jude is a die-hard fan of Christiano Ronaldo and watches every time Ronaldo is playing somewhere. 
+Jude is an amateur football player but a wannabe great player. Jude is a die-hard fan of Christiano Ronaldo and watches every time he is playing anywhere. 
 
-Jude wondered if he could just be like Ronaldo, exactly like Ronaldo. If by humongous practice, he could **imitate** all skills Ronaldo has. He doesn’t care that while imitating, he is scoring a goal or not, he would just kick as Ronaldo would have kicked. 
+Jude wondered if he could exactly be like Ronaldo. If by humongous practice, he could imitate all skills Ronaldo has. He doesn't care that while imitating if he is scoring a goal or not, he would just kick as Ronaldo would have kicked.
 
 > If I would kick exactly like Ronaldo, it would definitely be a goal!
 
@@ -44,11 +44,11 @@ Jude stumbled upon exactly what he was looking for
 
 ### Imitation Learning
 
-Continuing Jude's story, as he watches Ronaldo a lot, he knows what Ronaldo would do in numerous situations thrown at him. Let’s say Jude has practised and can mimic exactly Ronaldo in those **exactly the same situations**. 
+Continuing Jude's story, as he watches Ronaldo a lot, he knows what he would do in numerous situations thrown at him. Let’s say Jude has practised and can mimic exactly Ronaldo in those **exactly the same situations**. 
 
-As the number of situations Ronaldo(or any football player) can be in is infinite, Jude can’t cover all, how hard he tries! And since Jude was so busy in replicating Ronaldo, he didn’t learn anything when an unseen situation arises. Also, since Jude is human just like us, there is nothing like **exactly like** Ronaldo.
+As the number of situations Ronaldo(or any football player) can be in is infinite, Jude can’t learn on all of them, how hard he tries! And since Jude was so busy in replicating Ronaldo, he didn’t learn anything when an unknown situation arises. 
 
-However hard he try, there would be some scope of mistake every time!
+Also, since Jude is human just like us, there is nothing like **exactly like** Ronaldo. However hard he try, there would be some scope of mistake every time!
 
 We would see above circumstances projected mathematically later.
 
@@ -97,7 +97,7 @@ Once we get this trajectory, we slice this on each time step to get pairs of S<s
 
 We then treat these pairs as i.i.d examples and apply **Supervised learning**. 
 
-Changin loss function and optimisation strategies in this learning define various imitation learning algorithms. Let's look at basic ones in them.
+Changing loss function and optimisation strategies in this learning define various imitation learning algorithms. Let's look at basic ones in them.
 
 
 
@@ -202,7 +202,7 @@ All algorithms explained above are cateegorised as "basic" algorithms in Imitati
 
 Some of them are:
 - **Inverse Reinforcement Learning(IRL)** :
-  - Learns the reward function from expert trajectorie, then derives optimal policy.
+  - Learns the reward function from expert trajectories, then derives optimal policy.
   - It's very expensive to run.
   - Indirectly learns optimal policy from reward function.
 

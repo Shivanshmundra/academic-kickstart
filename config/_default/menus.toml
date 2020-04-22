@@ -14,6 +14,11 @@
   weight = 20
 
 [[main]]
+  name = "Paper Summary"
+  url = "paper_summary/"
+  weight = 20
+
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30

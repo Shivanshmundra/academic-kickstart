@@ -10,7 +10,7 @@ categories: ["Self Help"]
 date: 2020-04-21T20:15:02+05:30
 lastmod: 2020-04-21T20:15:02+05:30
 featured: false
-mdraft: true
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

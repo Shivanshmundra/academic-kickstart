@@ -78,7 +78,7 @@ Here concatenation of visual features and spatial features with language feature
 
 ## Results
 
-![](/home/shivansh/website/content/paper_summary/Recurrent_Multimodal/result_rmi.png)
+![](result_rmi.png)
 
 
 
